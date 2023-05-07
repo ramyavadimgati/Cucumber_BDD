@@ -1,0 +1,276 @@
+2023-05-05 21:14:39 INFO  Nop_stepdef:35 - Openning the browser
+  2023-05-05 21:14:40 INFO  Nop_stepdef:43 - Entering email and password
+  2023-05-05 21:14:41 INFO  Nop_stepdef:49 - Clicking login button
+  2023-05-05 21:14:50 INFO  Nop_stepdef:73 - Clicking customer menu
+  2023-05-05 21:14:50 INFO  Nop_stepdef:80 - Clicking customer option
+  2023-05-05 21:14:53 INFO  Nop_stepdef:141 - Searching customer by email
+  2023-05-05 21:14:58 INFO  Nop_stepdef:153 - Clicking search button
+  2023-05-05 21:15:00 INFO  Nop_stepdef:160 - Customer email record displayed
+  2023-05-05 21:15:00 INFO  Nop_stepdef:183 - Clicking logout button
+  2023-05-05 21:15:02 INFO  Nop_stepdef:66 - Opening Dashboard page
+  2023-05-05 21:15:02 INFO  Nop_stepdef:189 - Closing the browser
+  2023-05-05 21:15:03 INFO  Nop_stepdef:35 - Openning the browser
+  2023-05-05 21:15:05 INFO  Nop_stepdef:43 - Entering email and password
+  2023-05-05 21:15:05 INFO  Nop_stepdef:49 - Clicking login button
+  2023-05-05 21:15:16 INFO  Nop_stepdef:73 - Clicking customer menu
+  2023-05-05 21:15:16 INFO  Nop_stepdef:80 - Clicking customer option
+  2023-05-05 21:15:18 INFO  Nop_stepdef:168 - Searching customer by name
+  2023-05-05 21:15:18 INFO  Nop_stepdef:153 - Clicking search button
+  2023-05-05 21:15:20 INFO  Nop_stepdef:177 - Customer name record displayed
+  2023-05-05 21:32:18 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:32:18 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:34:07 INFO  Nop_stepdef:49 - Browser window opened
+  2023-05-05 21:34:07 INFO  Nop_stepdef:49 - Browser window opened
+  2023-05-05 21:36:43 INFO  Nop_stepdef:49 - Browser window opened
+  2023-05-05 21:36:43 INFO  Nop_stepdef:49 - Browser window opened
+  2023-05-05 21:38:40 INFO  Nop_stepdef:51 - Browser window opened
+  2023-05-05 21:38:40 INFO  Nop_stepdef:51 - Browser window opened
+  2023-05-05 21:39:13 INFO  Nop_stepdef:51 - Browser window opened
+  2023-05-05 21:39:13 INFO  Nop_stepdef:51 - Browser window opened
+  2023-05-05 21:40:55 INFO  Nop_stepdef:52 - Browser window opened
+  2023-05-05 21:40:55 INFO  Nop_stepdef:52 - Browser window opened
+  2023-05-05 21:42:13 INFO  Nop_stepdef:53 - Browser window opened
+  2023-05-05 21:42:13 INFO  Nop_stepdef:53 - Browser window opened
+  2023-05-05 21:43:52 INFO  Nop_stepdef:53 - Browser window opened
+  2023-05-05 21:43:52 INFO  Nop_stepdef:53 - Browser window opened
+  2023-05-05 21:44:50 INFO  Nop_stepdef:54 - Browser window opened
+  2023-05-05 21:44:50 INFO  Nop_stepdef:54 - Browser window opened
+  2023-05-05 21:45:29 INFO  Nop_stepdef:54 - Browser window opened
+  2023-05-05 21:45:29 INFO  Nop_stepdef:54 - Browser window opened
+  2023-05-05 21:47:33 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:47:33 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:47:36 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 21:47:36 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 21:47:46 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 21:47:46 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 21:47:48 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-05 21:47:53 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 21:47:55 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-05 21:47:56 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:47:57 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:48:00 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 21:48:01 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 21:48:12 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 21:48:12 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 21:48:14 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-05 21:48:14 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 21:48:16 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-05 21:50:33 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:50:33 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:50:36 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 21:50:37 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:50:37 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:56:03 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:56:03 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:56:06 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 21:56:07 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 21:56:19 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 21:56:19 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 21:56:20 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-05 21:56:25 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 21:56:27 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-05 21:56:37 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 21:56:37 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 21:56:40 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 21:56:40 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 21:56:49 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 21:56:49 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 21:56:50 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-05 21:56:50 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 21:56:52 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-05 22:01:59 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:01:59 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:02:02 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:02:02 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 22:02:12 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 22:02:12 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 22:02:14 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-05 22:02:19 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 22:02:21 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-05 22:04:21 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:04:21 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:04:24 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:04:24 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 22:04:33 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 22:04:33 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 22:04:34 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-05 22:04:39 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 22:04:41 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-05 22:04:49 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:04:50 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:05:34 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:05:35 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:05:36 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:05:36 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 22:05:44 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 22:05:45 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 22:05:47 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-05 22:05:52 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 22:05:54 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-05 22:06:03 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:06:03 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:11:15 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:11:15 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:11:17 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:11:18 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 22:11:29 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-05 22:11:29 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-05 22:11:32 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-05 22:11:34 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-05 22:11:36 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-05 22:11:53 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:11:53 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:11:58 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:11:58 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-05 22:12:07 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-05 22:12:07 INFO  Nop_stepdef:204 - Clicking logout button
+  2023-05-05 22:12:08 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-05 22:12:08 INFO  Nop_stepdef:210 - Closing the browser
+  2023-05-05 22:12:12 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-05 22:12:12 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-05 22:12:15 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-05 22:12:15 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 13:06:40 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 13:06:41 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 13:06:43 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 13:06:44 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 13:06:52 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 13:06:52 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 13:06:53 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-07 13:06:53 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 13:06:55 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-07 15:02:10 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:02:10 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:02:11 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:02:12 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:02:20 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:02:20 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:02:21 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-07 15:02:21 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:02:23 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-07 15:23:56 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:23:56 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:24:00 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:24:00 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:24:10 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:24:10 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:24:11 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-07 15:24:11 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:24:13 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-07 15:24:13 INFO  Nop_stepdef:204 - Clicking logout button
+  2023-05-07 15:24:15 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:24:15 INFO  Nop_stepdef:210 - Closing the browser
+  2023-05-07 15:25:37 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:25:38 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:25:40 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:25:40 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:25:51 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:25:51 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:25:52 INFO  Nop_stepdef:189 - Searching customer by name
+  2023-05-07 15:25:52 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:25:54 INFO  Nop_stepdef:198 - Customer name record displayed
+  2023-05-07 15:25:57 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:25:57 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:26:00 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:26:01 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:26:10 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:26:10 INFO  Nop_stepdef:204 - Clicking logout button
+  2023-05-07 15:26:12 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:26:12 INFO  Nop_stepdef:210 - Closing the browser
+  2023-05-07 15:26:13 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:26:14 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:26:21 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:26:21 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:26:28 INFO  Nop_stepdef:79 - Login unsuccessful page displayed
+  2023-05-07 15:28:52 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:28:52 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:28:55 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:28:55 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:29:06 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:29:06 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:29:07 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-07 15:29:12 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:29:14 INFO  Nop_stepdef:181 - Customer email record displayed
+  2023-05-07 15:29:15 INFO  Nop_stepdef:204 - Clicking logout button
+  2023-05-07 15:29:16 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:29:16 INFO  Nop_stepdef:210 - Closing the browser
+  2023-05-07 15:29:17 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:29:18 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:32:02 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:32:03 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:32:06 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:32:06 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:32:17 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:32:17 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:32:18 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-07 15:32:23 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:32:25 INFO  Nop_stepdef:189 - Customer email record displayed
+  2023-05-07 15:32:25 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:32:27 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:32:27 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:32:28 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:32:29 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:32:31 INFO  Nop_stepdef:181 - Entering email and password
+  2023-05-07 15:32:31 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:32:41 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:32:41 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:32:42 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:32:42 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:33:32 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:33:32 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:33:36 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:33:36 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:33:43 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:33:43 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:33:44 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-07 15:33:50 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:33:52 INFO  Nop_stepdef:189 - Customer email record displayed
+  2023-05-07 15:33:52 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:33:53 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:33:53 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:33:55 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:33:55 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:33:57 INFO  Nop_stepdef:181 - Entering email and password
+  2023-05-07 15:33:57 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:34:05 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:34:05 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:34:06 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:34:06 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:38:02 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:38:02 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:38:05 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:38:05 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:38:15 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:38:15 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:38:16 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-07 15:38:21 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:38:23 INFO  Nop_stepdef:189 - Customer email record displayed
+  2023-05-07 15:38:23 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:38:25 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:38:25 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:38:26 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:38:26 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:38:30 INFO  Nop_stepdef:181 - Entering email and password
+  2023-05-07 15:38:30 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:38:39 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:38:39 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:38:40 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:38:40 INFO  Nop_stepdef:218 - Closing the browser
+  2023-05-07 15:43:58 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:43:58 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:44:01 INFO  Nop_stepdef:64 - Entering email and password
+  2023-05-07 15:44:02 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:44:12 INFO  Nop_stepdef:94 - Clicking customer menu
+  2023-05-07 15:44:13 INFO  Nop_stepdef:101 - Clicking customer option
+  2023-05-07 15:44:15 INFO  Nop_stepdef:162 - Searching customer by email
+  2023-05-07 15:44:21 INFO  Nop_stepdef:174 - Clicking search button
+  2023-05-07 15:44:23 INFO  Nop_stepdef:189 - Customer email record displayed
+  2023-05-07 15:44:32 INFO  Nop_stepdef:50 - Browser window opened
+  2023-05-07 15:44:32 INFO  Nop_stepdef:56 - NOp commerce website opened
+  2023-05-07 15:44:47 INFO  Nop_stepdef:181 - Entering email and password
+  2023-05-07 15:44:47 INFO  Nop_stepdef:70 - Clicking login button
+  2023-05-07 15:44:58 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:44:58 INFO  Nop_stepdef:212 - Clicking logout button
+  2023-05-07 15:45:00 INFO  Nop_stepdef:87 - Opening Dashboard page
+  2023-05-07 15:45:00 INFO  Nop_stepdef:218 - Closing the browser
+  
